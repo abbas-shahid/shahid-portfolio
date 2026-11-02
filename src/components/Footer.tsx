@@ -30,7 +30,7 @@ function Footer() {
           }}
         >
           <a
-            href="https://github.com/shahidabbas37"
+            href="https://github.com/abbas-shahid"
             target="_blank"
             rel="noreferrer"
             style={{
@@ -87,7 +87,7 @@ function Footer() {
             <strong>Backend Development</strong> with Node.js, Express.js, and
             serverless architectures by{' '}
             <a
-              href="https://github.com/shahidabbas37"
+              href="https://github.com/abbas-shahid"
               target="_blank"
               rel="noreferrer"
               style={{

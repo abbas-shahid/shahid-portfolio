@@ -16,7 +16,7 @@ function Main() {
         <div className="content">
           <div className="social_icons">
             <a
-              href="https://github.com/shahidabbas37"
+              href="https://github.com/abbas-shahid"
               target="_blank"
               rel="noreferrer"
             >
@@ -35,7 +35,7 @@ function Main() {
 
           <div className="mobile_social_icons">
             <a
-              href="https://github.com/shahidabbas37"
+              href="https://github.com/abbas-shahid"
               target="_blank"
               rel="noreferrer"
             >
