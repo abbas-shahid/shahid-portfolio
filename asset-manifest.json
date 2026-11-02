@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shahid-portfolio/static/css/main.f7f46d23.css",
-    "main.js": "/shahid-portfolio/static/js/main.a4c2a835.js",
+    "main.css": "/shahid-portfolio/static/css/main.76479b3b.css",
+    "main.js": "/shahid-portfolio/static/js/main.833e32a1.js",
     "static/js/453.f914e9a4.chunk.js": "/shahid-portfolio/static/js/453.f914e9a4.chunk.js",
     "static/media/pmd.png": "/shahid-portfolio/static/media/pmd.0630ff1885d01ed6fcdb.png",
     "static/media/nursery.png": "/shahid-portfolio/static/media/nursery.a446a4a896c82fd5158c.png",
@@ -10,15 +10,13 @@
     "static/media/data-portal.png": "/shahid-portfolio/static/media/data-portal.d4457b4f12e508e5d98f.png",
     "static/media/bg-dark.png": "/shahid-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/ww-mobile.png": "/shahid-portfolio/static/media/ww-mobile.3ada2cc9352c4e854401.png",
-    "static/media/card-game.jpeg": "/shahid-portfolio/static/media/card-game.dd0eba39bc4dccdf6a56.jpeg",
-    "static/media/profile-picture.jpeg": "/shahid-portfolio/static/media/profile-picture.bef05a6399e863cc1328.jpeg",
     "index.html": "/shahid-portfolio/index.html",
-    "main.f7f46d23.css.map": "/shahid-portfolio/static/css/main.f7f46d23.css.map",
-    "main.a4c2a835.js.map": "/shahid-portfolio/static/js/main.a4c2a835.js.map",
+    "main.76479b3b.css.map": "/shahid-portfolio/static/css/main.76479b3b.css.map",
+    "main.833e32a1.js.map": "/shahid-portfolio/static/js/main.833e32a1.js.map",
     "453.f914e9a4.chunk.js.map": "/shahid-portfolio/static/js/453.f914e9a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7f46d23.css",
-    "static/js/main.a4c2a835.js"
+    "static/css/main.76479b3b.css",
+    "static/js/main.833e32a1.js"
   ]
 }
